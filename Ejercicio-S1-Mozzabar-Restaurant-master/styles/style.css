@@ -1,0 +1,36 @@
+.nav-bar{
+    width: 100%; 
+    background-color: #201f1f;
+    /* display: inline-block; */
+}
+.img-logo{
+    position: relative;
+    left: 7%;
+
+}
+
+.nav-menu{
+    width: 100%;
+    font-family: sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 60px;
+}
+ 
+a{
+    color: white;
+    padding: 8px;
+    font-size:x-large;
+    margin-right: 80px;
+}
+.enlaces{
+    text-decoration: none;
+}
+.enlace-subrayado{
+    text-decoration-color: darkgoldenrod;
+    
+}
+.imagen-home{
+    width: 100%;
+}
+   

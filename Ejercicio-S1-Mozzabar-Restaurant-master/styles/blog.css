@@ -1,0 +1,19 @@
+.titulo-blog{
+    font-family: sans-serif;
+    text-align: center;
+}
+button{
+    background-color: darkgoldenrod;
+    border: darkgoldenrod;
+    border-radius: 1%;
+    height: 60px;
+    width: 300px;
+    margin: 60px 45% 0 45%;
+    font-weight: 700;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: white;
+}
+.contenedor-imagenes{
+    margin: 5% 22% 5% 22%;
+}

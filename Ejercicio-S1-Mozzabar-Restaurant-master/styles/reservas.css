@@ -1,0 +1,35 @@
+.fieldset{
+    border: none;
+   }
+   .background{
+    height: 100vh;
+    background-image: url("/imagenes/img-reservas-fondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+   }
+   .mozzabar{
+    color: darkorange;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .texto{
+    color: white;
+    font-weight: 400;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .titulo{
+    color: white;
+    font-size: x-large;
+    font-weight: 700;
+   }
+   .header{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+   }
+   .formulario, .direccion{
+    display: inline-block;
+    padding: 10%;
+    }

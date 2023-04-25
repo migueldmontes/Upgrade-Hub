@@ -1,0 +1,38 @@
+ul{
+    list-style: none;
+}
+
+.menu-izquierda{
+    position: absolute;
+    height: 1000px;
+    width: 35%;
+    border: solid;
+    display: inline-block;
+    color: black;
+    background-color: antiquewhite;
+    padding-left:50% ;
+}
+.menu-derecha{
+    position: relative;
+    height: 1000px;
+    width: 35%;
+    border: solid;
+    display: inline-block;
+    color: black;
+    background-color: antiquewhite;
+    padding-right: 10%;
+}
+.contenedor{
+    background-image: url("/imagenes/img-concepto.jpg.crdownload");
+    background-size: cover;
+    background-position: center center;
+    height: 1000px;
+    width: 2300px;
+    padding: 2%;
+}
+.header{
+    font-family: sans-serif;
+}
+h2, .opciones{
+    text-align: center;
+}
